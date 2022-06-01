@@ -1,0 +1,22 @@
+h1 {
+  background-color: rgb(52, 78, 65);
+  color: rgb(88, 129, 87);
+  border: 4px double rgb(88, 129, 87);
+  border-radius: 8px;
+}
+
+body {
+  background-color: rgb(163, 177, 138);
+}
+
+p {
+  background-color: rgb(88, 129, 87);
+  color: rgb(52, 78, 65);
+  padding: 5px;
+}
+
+label {
+  background-color: rgb(88, 129, 87);
+  color: rgb(52, 78, 65);
+  padding: 5px;
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit5-03-HTML-Factorial-->
+<!-- ICS2O-Unit5-03-PHP-Factorial-->
 <html lang="en-ca">
   <head>
     <meta charset="utf-8">
